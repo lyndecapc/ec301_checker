@@ -17,6 +17,7 @@ namespace PlanChecker
     /// <summary>
     /// Interaction logic for App.xaml
     /// </summary>
+    /// //test
     public partial class App
     {
         private IEventAggregator _ea;
